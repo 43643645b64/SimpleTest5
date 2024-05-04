@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="hi">Добро пожаловать</string>
+    <string name="start">Начнём!!!</string>
+    <string name="bye">Прощайте</string>
+    <string name="student">Владислав Жайкбаев 1 вариант РИБО-05-22</string>
+</resources>
